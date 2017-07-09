@@ -1,0 +1,45 @@
+{
+  "name": "cylon-playbulb-candle",
+  "version": "0.1.0",
+  "description": "Cylon module for Playbulb Candle",
+  "homepage": "http://cylonjs.com",
+  "bugs": "https://github.com/javipg/cylon-playbulbcandle/issues",
+
+  "author": "The Hybrid Group <cylonjs@hybridgroup.com>",
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hybridgroup/cylon-mip"
+  },
+
+  "license": "Apache-2.0",
+
+  "keywords": [
+    "cylon",
+    "cylonjs",
+    "cylons",
+    "robot",
+    "robots",
+    "robotics",
+    "iot",
+    "hardware",
+    "mip",
+    "wowwee",
+    "bluetooth",
+    "bluetooth le",
+    "ble"
+  ],
+
+  "devDependencies": {
+    "sinon-chai": "2.5.0",
+    "chai":       "1.9.1",
+    "mocha":      "1.18.2",
+    "sinon":      "1.9.1",
+    "eslint":     "0.22.1"
+  },
+
+  "dependencies": {
+    "cylon": "~1.2.0",
+    "cylon-ble": "~0.8.0"
+  }
+}
