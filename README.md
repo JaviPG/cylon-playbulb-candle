@@ -50,8 +50,8 @@ For our contribution guidelines, please go to [https://github.com/hybridgroup/cy
 
 ## Release History
 
-For the release history, please go to [https://github.com/hybridgroup/cylon-mip/blob/master/RELEASES.md
-](https://github.com/hybridgroup/cylon-mip/blob/master/RELEASES.md
+For the release history, please go to [https://github.com/JaviPG/cylon-playbulb-candle/blob/master/RELEASES.md
+](https://github.com/JaviPG/cylon-playbulb-candle/blob/master/RELEASES.md
 ).
 
 ## License
